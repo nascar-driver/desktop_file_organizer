@@ -5,7 +5,7 @@ edition = "2024"
 authors = ["nascar-driver"]
 description = "A crate for organizing your desktop files."
 license = "MIT"
-repository = ""
+repository = "https://github.com/nascar-driver/desktop_file_organizer"
 categories = ["file_system", "tools"]
 [dependencies]
 chrono = "0.4.41"
