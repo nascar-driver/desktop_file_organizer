@@ -7,7 +7,8 @@ This tool helps declutter your Desktop by:
 
 - Moving **all top-level files** into `archives/yyyyMM/<file_extension>/`
 - Organizing files based on their **last modified date** and **file extension**
-
+---
+https://github.com/user-attachments/assets/5a332e4a-a05f-48ca-a3c0-cfa7633b1c2d
 ---
 Tested on: Windows 11.
 ```bash
